@@ -1,2 +1,2 @@
 <?php
-echo "test repostiroy paylaşımı 2";
+echo "test repostiroy paylaşımı";
