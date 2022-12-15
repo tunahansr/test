@@ -1,2 +1,2 @@
 <?php
-echo "Yeni Başlık test";
+echo "Yeni Başlık test etmek için yapıldı";
