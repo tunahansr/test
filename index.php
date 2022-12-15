@@ -1,2 +1,2 @@
 <?php
-echo "test repostiroy paylaşımı";
+echo "Yeni Başlık";
